@@ -1,4 +1,4 @@
-# Mastering Pre-trained Transformers
+#  Pre-trained Transformers
 
 This repository contains a hands-on exploration of the Hugging Face `transformers` library. The project moves from simplified, one-line pipelines to custom inference logic for sentiment analysis, language modeling, and text generation.
 
